@@ -22,22 +22,7 @@ body {
   border-radius: 50px;
 }
 
-.blueCircle {
-  height: 80px;
-  width: 80px;
-  background-color: blue;
-  border-radius: 50px;
-}
+/* update red */
 
-.goldCircle {
-  height: 80px;
-  width: 80px;
-  background-color: gold;
-  border-radius: 50px;
-}
-.pinkCircle {
-  height: 80px;
-  width: 80px;
-  background-color: pink;
-  border-radius: 50px;
-}
+
+
