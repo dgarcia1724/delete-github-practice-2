@@ -14,3 +14,10 @@ body {
   background-color: green;
   border-radius: 50px;
 }
+
+.redCircle {
+  height: 80px;
+  width: 80px;
+  background-color: red;
+  border-radius: 50px;
+}
