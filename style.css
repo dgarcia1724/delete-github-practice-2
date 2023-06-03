@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 250px;
+}
+
+.greenCircle {
+  height: 80px;
+  width: 80px;
+  background-color: green;
+  border-radius: 50px;
+}
