@@ -28,3 +28,10 @@ body {
   background-color: blue;
   border-radius: 50px;
 }
+
+.goldCircle {
+  height: 80px;
+  width: 80px;
+  background-color: gold;
+  border-radius: 50px;
+}
