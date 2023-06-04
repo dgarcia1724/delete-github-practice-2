@@ -29,16 +29,15 @@ body {
   border-radius: 50px;
 }
 
-.purpleCircle {
+.goldCircle {
   height: 80px;
   width: 80px;
-  background-color: purple;
+  background-color: gold;
   border-radius: 50px;
 }
-
-.blackCircle {
+.pinkCircle {
   height: 80px;
   width: 80px;
-  background-color: black;
+  background-color: pink;
   border-radius: 50px;
 }
