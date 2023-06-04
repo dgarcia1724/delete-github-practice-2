@@ -7,3 +7,38 @@
 body {
   padding: 250px;
 }
+
+.greenCircle {
+  height: 80px;
+  width: 80px;
+  background-color: green;
+  border-radius: 50px;
+}
+
+.redCircle {
+  height: 80px;
+  width: 80px;
+  background-color: red;
+  border-radius: 50px;
+}
+
+.blueCircle {
+  height: 80px;
+  width: 80px;
+  background-color: blue;
+  border-radius: 50px;
+}
+
+.goldCircle {
+  height: 80px;
+  width: 80px;
+  background-color: gold;
+  border-radius: 50px;
+}
+
+.orangeCircle {
+  height: 80px;
+  width: 80px;
+  background-color: orange;
+  border-radius: 50px;
+}
