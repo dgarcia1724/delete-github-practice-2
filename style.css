@@ -28,3 +28,10 @@ body {
   background-color: blue;
   border-radius: 50px;
 }
+
+.purpleCircle {
+  height: 80px;
+  width: 80px;
+  background-color: purple;
+  border-radius: 50px;
+}
