@@ -35,3 +35,10 @@ body {
   background-color: purple;
   border-radius: 50px;
 }
+
+.blackCircle {
+  height: 80px;
+  width: 80px;
+  background-color: black;
+  border-radius: 50px;
+}
