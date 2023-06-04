@@ -35,9 +35,10 @@ body {
   background-color: gold;
   border-radius: 50px;
 }
-.pinkCircle {
+
+.orangeCircle {
   height: 80px;
   width: 80px;
-  background-color: pink;
+  background-color: orange;
   border-radius: 50px;
 }
